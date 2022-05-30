@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Poppins', sans-serif;;
+    box-sizing: border-box;
+ }
+
+ :root {
+     --primary-color: #050505;
+    
+    --primary-colorx: #ec1f55;
+    --text-color: #333;
+     
+ }
